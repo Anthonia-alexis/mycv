@@ -1,0 +1,93 @@
+.bio {
+    background-color: rgb(189, 187, 255);
+}
+
+.arson {
+    color: black;
+    font-family: Georgia, 'Times New Roman', serif;
+    text-align: center;
+    border: 0.1px solid;
+    border-radius: 10px;
+    padding: 20px auto;
+    margin: 20px auto;
+    max-width: 80%;
+    font-size: large;
+    background-color: rgb(167, 223, 255);
+
+}
+
+.email,
+.github,
+.linkedin {
+    color: darkmagenta;
+    text-decoration: none;
+}
+
+.github {
+    padding: 10px;
+}
+
+.email:hover {
+    color: red;
+    transition-duration: 3s;
+
+}
+
+.github:hover {
+    color: black;
+    transition-duration: 3s;
+
+}
+
+.linkedin:hover {
+    color: blue;
+    transition-duration: 2s;
+
+}
+
+
+
+p {
+    color: black;
+    font-family: Georgia, 'Times New Roman', serif;
+    text-align: justify;
+    font-size: medium;
+}
+
+footer {
+    color: black;
+}
+
+#personal {
+    font-weight: 150;
+}
+
+#Experience {
+    text-transform: uppercase;
+}
+
+#tv {
+    font-size: larger;
+}
+
+#position {
+    font-size: small;
+    font-weight: lighter;
+
+}
+
+table {
+    border: 1px dashed black;
+}
+
+td {
+    border: 1px solid rgb(255, 255, 255);
+}
+
+#heading {
+    font-weight: bold;
+}
+
+#course-name {
+    font-weight: bold;
+}

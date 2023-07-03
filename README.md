@@ -1,7 +1,8 @@
-My CV
-Welcome to my portfolio repository!
+Welcome to my CV repository!
+
 This repository contains my professional CV, which provides an overview of my education, 
-work experiences, independent courses I've undertaken, interests, and skills. This repository highlights my strengths, expertise, and 
+work experiences, independent courses I've undertaken, interests, and skills. 
+This repository highlights my strengths, expertise, and 
 the value I can bring to potential collaborators, clients, or employers.
 
 Table of Contents

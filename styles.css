@@ -1,48 +1,61 @@
 .bio {
-    background-color: rgb(189, 187, 255);
+    background-color: #a070a1;
+
 }
 
 .arson {
-    color: black;
-    font-family: Georgia, 'Times New Roman', serif;
+    color: rgb(27, 15, 15);
+    font-family: poppins, sans-serif;
     text-align: center;
     border: 0.1px solid;
     border-radius: 10px;
-    padding: 20px auto;
+    padding-left: 20px;
+    padding-right: 20px;
     margin: 20px auto;
-    max-width: 80%;
+    max-width: 90%;
     font-size: large;
-    background-color: rgb(167, 223, 255);
-
+    background-color: #6c757d;
+    font-size: 1rem;
+    font-weight: 300;
+    letter-spacing: .025em;
+    line-height: 1.7em;
 }
 
-.email,
+
 .github,
 .linkedin {
-    color: darkmagenta;
+    color: rgb(212, 198, 212);
     text-decoration: none;
 }
 
+.email {
+    color: rgb(196, 189, 178);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
 .github {
-    padding: 10px;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+
+.linkedin {
+    padding-left: 20px;
 }
 
 .email:hover {
-    color: red;
-    transition-duration: 3s;
+    color: rgb(235, 89, 45);
 
 }
 
 .github:hover {
     color: black;
-    transition-duration: 3s;
+    transition-duration: 2s;
 
 }
 
 .linkedin:hover {
-    color: blue;
-    transition-duration: 2s;
-
+    color: rgb(21, 21, 105);
 }
 
 

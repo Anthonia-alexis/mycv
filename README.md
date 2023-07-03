@@ -5,7 +5,7 @@ work experiences, independent courses I've undertaken, interests, and skills.
 This repository highlights my strengths, expertise, and 
 the value I can bring to potential collaborators, clients, or employers.
 
-Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)-
 - [Contact Information](#contact-information)

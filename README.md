@@ -1,4 +1,4 @@
-Welcome to my CV repository!
+## Welcome to my CV repository!
 
 This repository contains my professional CV, which provides an overview of my education, 
 work experiences, independent courses I've undertaken, interests, and skills. 
@@ -82,4 +82,5 @@ I hope you find my CV informative and valuable. Should you have any questions or
 please do not hesitate to contact me.
 
 Thank you
-Anthonia/
+
+_Anthonia
